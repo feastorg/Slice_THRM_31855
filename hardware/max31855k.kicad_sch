@@ -5,7 +5,7 @@
 	(uuid "3b792caa-7ea1-4b6f-b0fe-829a434bd2a6")
 	(paper "A4")
 	(lib_symbols
-		(symbol "BREAD_Slice-rescue:Ferrite_Bead_Small-Device"
+		(symbol "Device:Ferrite_Bead_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -83,7 +83,7 @@
 					)
 				)
 			)
-			(symbol "Ferrite_Bead_Small-Device_0_1"
+			(symbol "Ferrite_Bead_Small_0_1"
 				(polyline
 					(pts
 						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
@@ -121,7 +121,7 @@
 					)
 				)
 			)
-			(symbol "Ferrite_Bead_Small-Device_1_1"
+			(symbol "Ferrite_Bead_Small_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 1.27)
@@ -1178,7 +1178,7 @@
 		(uuid "8c746164-dff2-49da-9d72-b2ecb241ce38")
 	)
 	(symbol
-		(lib_id "BREAD_Slice-rescue:Ferrite_Bead_Small-Device")
+		(lib_id "Device:Ferrite_Bead_Small")
 		(at 144.78 95.25 90)
 		(unit 1)
 		(body_style 1)
@@ -1546,7 +1546,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BREAD_Slice-rescue:Ferrite_Bead_Small-Device")
+		(lib_id "Device:Ferrite_Bead_Small")
 		(at 144.78 85.09 90)
 		(unit 1)
 		(body_style 1)
